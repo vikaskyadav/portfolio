@@ -6,33 +6,33 @@ description: Fullstack developer. Data Scientist. Cloud Architect. Pythonista. L
 theme: jekyll-material-theme
 
 baseurl: "/portfolio"
-url: ""
+url: "https://vikaskyadav"
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one: Boostr.ai
+project_one_description: AI-first mobile sales enablement platform to make every customer interaction successful
+project_one_url: https://www.boostr.ai/
 project_one_icon: location_on
 
-project_two: Second Project
-project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two: Teleport
+project_two_description: Blockchain based peer-to-peer logistics platform
+project_two_url: www.teleport.express
 project_two_icon: photo_camera
 
 
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
+project_three: Avocado Governance
+project_three_description: Governance website for avocado platform
+project_three_url: governance.surge.sh
 project_three_icon: hotel
 
 
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_four: Mommee
+project_four_description: Parenting platform for Mothers
+project_four_url: https://mommee.in
 project_four_icon: restaurant
 
 portfolio_heading: Portfolio
@@ -152,7 +152,7 @@ github: https://github.com/vikaskyadav
 medium: https://medium.com/@vikasharry03
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
-url: http://vikasyadav.ml/ #the url of your site
+url: www.vikaskyadav.tk/ #the url of your site
 
 # Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
 tag_manager_id: # This looks something like GTM-XXXXXXX
